@@ -16,10 +16,6 @@ p {
   overflow: auto;
 }
 
-#container {
-  position: relative;
-}
-
 #p1 {
   background-color: #D59898;
   position: absolute;
@@ -58,6 +54,10 @@ p {
    text-align: center;
    font-family: Arial, Helvetica, sans-serif;
  }
+ 
+ #container {
+  position: relative;
+}
 
 .row {
   width: 100%;
